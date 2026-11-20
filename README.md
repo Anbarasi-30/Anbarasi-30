@@ -234,7 +234,7 @@ A project exploring transformer-based next-token prediction.
 </p>
 
 <p align="center">
-  <img src="certificates/nptel-java.png" width="500" alt="NPTEL Programming in Java Certificate"/>
+  <img src="certificates/java.jpg" width="500" alt="NPTEL Programming in Java Certificate"/>
 </p>
 
 <p align="center">
@@ -242,10 +242,8 @@ A project exploring transformer-based next-token prediction.
 </p>
 
 <p align="center">
-  <img src="certificates/nptel-generative-ai.png" width="500" alt="NPTEL Programming with Generative AI Certificate"/>
+  <img src="certificates/genai.jpg" width="500" alt="NPTEL Programming with Generative AI Certificate"/>
 </p>
-
----
 
 ## 📊 GitHub Analytics
 
