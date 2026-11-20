@@ -227,23 +227,6 @@ A project exploring transformer-based next-token prediction.
 
 ---
 
-## 📜 Certificates
-
-<p align="center">
-  <b>🥇 Programming in Java — NPTEL Elite | 100% | Top 1%</b>
-</p>
-
-<p align="center">
-  <img src="certificates/java.jpg" width="500" alt="NPTEL Programming in Java Certificate"/>
-</p>
-
-<p align="center">
-  <b>🤖 Programming with Generative AI — NPTEL | 50%</b>
-</p>
-
-<p align="center">
-  <img src="certificates/genai.jpg" width="500" alt="NPTEL Programming with Generative AI Certificate"/>
-</p>
 
 ## 📊 GitHub Analytics
 
