@@ -19,6 +19,9 @@
   <a href="mailto:anbarasis917@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/anbarasi-s-732166376/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -27,12 +30,12 @@
 
 I'm an Artificial Intelligence and Data Science student passionate about software development, AI, and creating practical applications.
 
-- 🌱 Currently exploring **Full Stack Development**
-- 💻 Interested in building interactive and user-friendly applications
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
-- 🧠 Improving my programming and problem-solving skills
-- 🚀 Love turning ideas into real-world projects
-- 🏆 **NPTEL Gold Medalist in Programming in Java — Top 1%**
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science
+- 💻 Interested in Full Stack Development
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Deep Learning
+- 🌱 Continuously learning and improving my development skills
+- 🚀 Interested in building practical, real-world applications
+- 🏆 NPTEL Elite Gold Medalist in Programming in Java — 100% Score | Top 1%
 
 ---
 
@@ -52,17 +55,13 @@ I'm an Artificial Intelligence and Data Science student passionate about softwar
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Database
 
 <p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Data Science
@@ -74,9 +73,17 @@ I'm an Artificial Intelligence and Data Science student passionate about softwar
 <img src="https://img.shields.io/badge/Data_Analysis-008080?style=for-the-badge"/>
 </p>
 
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
 <tr>
@@ -88,18 +95,23 @@ I'm an Artificial Intelligence and Data Science student passionate about softwar
 
 An AI-powered solution focused on smart farming and intelligent agricultural decision-making.
 
-<a href="https://github.com/Anbarasi-30/SmartFarm-AI">🔗 View Project</a>
+<a href="https://github.com/Anbarasi-30/SmartFarm-AI">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 <td width="50%">
 
 ### 📊 BusinessIntelligence.ai
 
 **From KPI to Insight to Action**
 
-An AI-powered business intelligence solution that analyzes business KPIs and provides actionable insights.
+An AI-powered business intelligence solution that analyzes business KPIs, identifies possible causes behind performance changes, and provides actionable insights.
 
-<a href="https://github.com/Anbarasi-30/BusinessIntelligence.ai">🔗 View Project</a>
+<a href="https://github.com/Anbarasi-30/BusinessIntelligence.ai">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
@@ -111,16 +123,21 @@ An AI-powered business intelligence solution that analyzes business KPIs and pro
 
 A web-based application designed to simplify online appointment scheduling and management for academics.
 
-<a href="https://github.com/Anbarasi-30/Online-Appointment-Booking-System">🔗 View Project</a>
+<a href="https://github.com/Anbarasi-30/Online-Appointment-Booking-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 <td width="50%">
 
 ### 🎓 Attendance Management System
 
-A web-based system for student attendance management and record keeping.
+A web-based system designed to simplify student attendance management and record keeping.
 
-<a href="https://github.com/Anbarasi-30/Attendance-Management-System">🔗 View Project</a>
+<a href="https://github.com/Anbarasi-30/Attendance-Management-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
@@ -130,18 +147,23 @@ A web-based system for student attendance management and record keeping.
 
 ### 🧠 QuizCraft
 
-A JavaScript-based quiz application project.
+A quiz-based web application developed using JavaScript.
 
-<a href="https://github.com/Anbarasi-30/QuizCraft">🔗 View Project</a>
+<a href="https://github.com/Anbarasi-30/QuizCraft">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 <td width="50%">
 
 ### 🐞 BugBuddy
 
 An AI-assisted coding project exploring programming errors and debugging.
 
-<a href="https://github.com/Anbarasi-30/BugBuddy">🔗 View Project</a>
+<a href="https://github.com/Anbarasi-30/BugBuddy">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
@@ -151,18 +173,23 @@ An AI-assisted coding project exploring programming errors and debugging.
 
 ### 🧠 ANN — Make Moons Classification
 
-An artificial neural network implementation for classification using the Make Moons dataset.
+An artificial neural network project exploring classification using the Make Moons dataset.
 
-<a href="https://github.com/Anbarasi-30/ann-make-moons-classification">🔗 View Project</a>
+<a href="https://github.com/Anbarasi-30/ann-make-moons-classification">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 <td width="50%">
 
 ### 🔤 Transformer Next Token Prediction
 
-Exploring transformer architecture and next-token prediction.
+A project exploring transformer-based next-token prediction.
 
-<a href="https://github.com/Anbarasi-30/transformer-next-token-prediction">🔗 View Project</a>
+<a href="https://github.com/Anbarasi-30/transformer-next-token-prediction">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
@@ -170,18 +197,53 @@ Exploring transformer architecture and next-token prediction.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Certifications & Achievements
 
-<p>
-<img src="https://img.shields.io/badge/NPTEL-Gold%20Medalist-FFD700?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NPTEL-Top%201%25-8B5CF6?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/NPTEL-Elite%20Gold-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Top%201%25-Achievement-8B5CF6?style=for-the-badge"/>
 </p>
 
-- 🥇 NPTEL Gold Medal — Programming in Java
-- 🌟 NPTEL Top 1%
+### 🥇 Programming in Java
+
+- NPTEL Elite Certification
+- **Score: 100%**
+- **Top 1%**
+- 12-week course
+- Offered by IIT Kharagpur
+
+### 🤖 Programming with Generative AI
+
+- NPTEL Certification
+- **Score: 50%**
+- Successfully completed the 8-week course
+- Offered by IISc Bangalore
+
+### 🌟 Other Achievements
+
 - 🏅 Academic Star Award
 - 💡 Adobe University Hackathon — Round 2
 - 🚀 Buildathon — Round 2
+
+---
+
+## 📜 Certificates
+
+<p align="center">
+  <b>🥇 Programming in Java — NPTEL Elite | 100% | Top 1%</b>
+</p>
+
+<p align="center">
+  <img src="certificates/nptel-java.png" width="500" alt="NPTEL Programming in Java Certificate"/>
+</p>
+
+<p align="center">
+  <b>🤖 Programming with Generative AI — NPTEL | 50%</b>
+</p>
+
+<p align="center">
+  <img src="certificates/nptel-generative-ai.png" width="500" alt="NPTEL Programming with Generative AI Certificate"/>
+</p>
 
 ---
 
@@ -204,11 +266,11 @@ Exploring transformer architecture and next-token prediction.
   <a href="mailto:anbarasis917@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
+  
   <a href="https://www.linkedin.com/in/anbarasi-s-732166376/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+  
   <a href="https://github.com/Anbarasi-30">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
   </a>
